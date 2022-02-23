@@ -3,7 +3,7 @@ import css from "./image/css.png";
 import js from "./image/js.png";
 import reactjs from "./image/reac.png";
 import mongo from "./image/mongo.png";
-import boot from "./image/boot.png";
+// import boot from "./image/boot.png";
 import node from "./image/node.png";
 import vscode from "./image/vscode.png";
 import React from "react";
