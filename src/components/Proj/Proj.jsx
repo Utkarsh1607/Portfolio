@@ -10,11 +10,58 @@ export default function Proj(props) {
       <div className="projCont">
         <div className="final">
           <div className="img">
+            <img src={bankistWebsite} alt="" />
+          </div>
+          <div>
+            <h2>Bankist Website</h2>
+            <p className="desc">
+              This is a kind of any online banking landing page which gives a
+              short description about their product to their user. I have used
+              tons of dom effects which took at around 2 weeks to complete this
+              whole project.
+            </p>
+            <h3>Tech Stack</h3>
+
+            <div className="tech">
+              <div>
+                <i className="fab fa-html5"></i>
+                <p>HTML</p>
+              </div>
+              <div>
+                <i className="fab fa-css3"></i>
+                <p>CSS</p>
+              </div>
+              <div>
+                <i className="fab fa-js"></i>
+                <p>JavaScript</p>
+              </div>
+            </div>
+            <div className="buttons">
+              <a
+                href="https://bankist-website-zeta.vercel.app/"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <button>Preview</button>
+              </a>
+              <a
+                href="https://github.com/Utkarsh1607/Bankist-Website"
+                target="_blank"
+                rel="noreferrer"
+              >
+                <button>Code</button>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div className="final">
+          <div className="img">
             <img src={bankistAppImg} alt="" />
           </div>
           <div>
             <h2>A fun banking application</h2>
-            <p>
+            <p className="desc">
               This is a kind of online banking website where a user can login by
               entering a username and pin. He can see his Transaction history
               with his account balance. User can also request for a loan. User
@@ -61,58 +108,11 @@ export default function Proj(props) {
 
         <div className="final">
           <div className="img">
-            <img src={bankistWebsite} alt="" />
-          </div>
-          <div>
-            <h2>Bankist Website</h2>
-            <p>
-              This is a kind of any online banking landing page which gives a
-              short description about their product to their user. I have used
-              tons of dom effects which took at around 2 weeks to complete this
-              whole project.
-            </p>
-            <h3>Tech Stack</h3>
-
-            <div className="tech">
-              <div>
-                <i className="fab fa-html5"></i>
-                <p>HTML</p>
-              </div>
-              <div>
-                <i className="fab fa-css3"></i>
-                <p>CSS</p>
-              </div>
-              <div>
-                <i className="fab fa-js"></i>
-                <p>JavaScript</p>
-              </div>
-            </div>
-            <div className="buttons">
-              <a
-                href="https://bankist-website-zeta.vercel.app/"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>Preview</button>
-              </a>
-              <a
-                href="https://github.com/Utkarsh1607/Bankist-Website"
-                target="_blank"
-                rel="noreferrer"
-              >
-                <button>Code</button>
-              </a>
-            </div>
-          </div>
-        </div>
-
-        <div className="final">
-          <div className="img">
             <img src={img3} alt="" />
           </div>
           <div>
             <h2>Snapdeal Clone</h2>
-            <p>
+            <p className="desc">
               Snapdeal is India's leading pure-play value Ecommerce platform
               from where a user can purchase all types of items. This is a group
               project which is made by group of 5 executed in 4 days.
