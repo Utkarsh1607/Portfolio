@@ -16,14 +16,14 @@ export default function Contact() {
               target="_blank"
               rel="noreferrer"
             >
-              <i class="fab fa-github"></i>
+              <i className="fab fa-github"></i>
             </a>
             <a
               href="www.linkedin.com/in/utkarshgupta16"
               target="_blank"
               rel="noreferrer"
             >
-              <i class="fab fa-linkedin"></i>
+              <i className="fab fa-linkedin"></i>
             </a>
           </div>
         </div>

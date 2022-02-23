@@ -10,7 +10,7 @@ export default function Navbar() {
       <input id="checkbox" type="checkbox" />
       <div id="bar">
         <label htmlFor="checkbox">
-          <i class="fas fa-bars"></i>
+          <i className="fas fa-bars"></i>
         </label>
       </div>
       <ul className="nav-ul">

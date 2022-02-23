@@ -28,15 +28,15 @@ export default function Proj(props) {
 
             <div className="tech">
               <div>
-                <i class="fab fa-html5"></i>
+                <i className="fab fa-html5"></i>
                 <p>HTML</p>
               </div>
               <div>
-                <i class="fab fa-css3"></i>
+                <i className="fab fa-css3"></i>
                 <p>CSS</p>
               </div>
               <div>
-                <i class="fab fa-js"></i>
+                <i className="fab fa-js"></i>
                 <p>JavaScript</p>
               </div>
             </div>
@@ -75,15 +75,15 @@ export default function Proj(props) {
 
             <div className="tech">
               <div>
-                <i class="fab fa-html5"></i>
+                <i className="fab fa-html5"></i>
                 <p>HTML</p>
               </div>
               <div>
-                <i class="fab fa-css3"></i>
+                <i className="fab fa-css3"></i>
                 <p>CSS</p>
               </div>
               <div>
-                <i class="fab fa-js"></i>
+                <i className="fab fa-js"></i>
                 <p>JavaScript</p>
               </div>
             </div>
@@ -121,15 +121,15 @@ export default function Proj(props) {
 
             <div className="tech">
               <div>
-                <i class="fab fa-html5"></i>
+                <i className="fab fa-html5"></i>
                 <p>HTML</p>
               </div>
               <div>
-                <i class="fab fa-css3"></i>
+                <i className="fab fa-css3"></i>
                 <p>CSS</p>
               </div>
               <div>
-                <i class="fab fa-js"></i>
+                <i className="fab fa-js"></i>
                 <p>JavaScript</p>
               </div>
             </div>
